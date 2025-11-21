@@ -1,0 +1,55 @@
+city,country,error_type,timestamp
+Lagos,Nigeria,http_error,2025-11-20T14:38:48.465178
+Tehran,Iran,http_error,2025-11-20T14:38:53.515133
+Kinshasa,Congo (Kinshasa),http_error,2025-11-20T14:38:54.534419
+Luanda,Angola,http_error,2025-11-20T14:39:10.423884
+Dar es Salaam,Tanzania,http_error,2025-11-20T14:39:22.161930
+Khartoum,Sudan,http_error,2025-11-20T14:39:23.012398
+Rangoon,Burma,http_error,2025-11-20T14:39:32.329161
+Baghdad,Iraq,http_error,2025-11-20T14:39:42.502287
+Douala,Cameroon,http_error,2025-11-20T14:39:54.024866
+Abidjan,Côte d’Ivoire,http_error,2025-11-20T14:40:20.109772
+Kabul,Afghanistan,http_error,2025-11-20T14:40:49.960372
+Bamako,Mali,http_error,2025-11-20T14:40:51.592380
+Kano,Nigeria,http_error,2025-11-20T14:40:52.403901
+Kumasi,Ghana,http_error,2025-11-20T14:41:08.562611
+Abuja,Nigeria,http_error,2025-11-20T14:41:16.172074
+Mashhad,Iran,http_error,2025-11-20T14:41:22.069572
+Ibadan,Nigeria,http_error,2025-11-20T14:41:32.836707
+Boankra,Ghana,http_error,2025-11-20T14:41:40.247565
+Santa Cruz de la Sierra,Bolivia,http_error,2025-11-20T14:41:57.062891
+Tashkent,Uzbekistan,http_error,2025-11-20T14:42:01.198142
+Ouagadougou,Burkina Faso,http_error,2025-11-20T14:42:04.527383
+Guatemala City,Guatemala,http_error,2025-11-20T14:42:07.036894
+Mbuji-Mayi,Congo (Kinshasa),http_error,2025-11-20T14:42:18.723233
+Pyongyang,"Korea, North",http_error,2025-11-20T14:42:22.070167
+Omdurman,Sudan,http_error,2025-11-20T14:42:28.769569
+Damascus,Syria,http_error,2025-11-20T14:42:54.412339
+Brazzaville,Congo (Brazzaville),http_error,2025-11-20T14:42:56.089993
+Sanaa,Yemen,http_error,2025-11-20T14:42:57.768833
+Yaoundé,Cameroon,http_error,2025-11-20T14:43:10.966493
+Beirut,Lebanon,http_error,2025-11-20T14:43:17.043597
+Algiers,Algeria,http_error,2025-11-20T14:43:27.851018
+Almaty,Kazakhstan,http_error,2025-11-20T14:43:44.673960
+Eşfahān,Iran,http_error,2025-11-20T14:43:46.257422
+Awka,Nigeria,http_error,2025-11-20T14:43:52.957330
+Phnom Penh,Cambodia,http_error,2025-11-20T14:43:57.957997
+Mogadishu,Somalia,http_error,2025-11-20T14:43:59.600496
+Havana,Cuba,http_error,2025-11-20T14:44:04.512935
+Aleppo,Syria,http_error,2025-11-20T14:44:17.105069
+Karaj,Iran,http_error,2025-11-20T14:44:21.218693
+Kananga,Congo (Kinshasa),http_error,2025-11-20T14:44:22.070636
+Port Harcourt,Nigeria,http_error,2025-11-20T14:44:33.846406
+Mosul,Iraq,http_error,2025-11-20T14:44:40.446611
+Lubumbashi,Congo (Kinshasa),http_error,2025-11-20T14:44:42.097947
+Benin City,Nigeria,http_error,2025-11-20T14:44:42.907164
+Lusaka,Zambia,http_error,2025-11-20T14:44:49.562902
+Masqaţ,Oman,http_error,2025-11-20T14:44:53.797721
+Montevideo,Uruguay,http_error,2025-11-20T14:44:54.597998
+Conakry,Guinea,http_error,2025-11-20T14:45:03.785698
+Novosibirsk,Russia,http_error,2025-11-20T14:45:08.813159
+Yopougon,Côte d’Ivoire,http_error,2025-11-20T14:45:20.794668
+Shīrāz,Iran,http_error,2025-11-20T14:45:22.475806
+Dushanbe,Tajikistan,http_error,2025-11-20T14:45:23.275692
+Harare,Zimbabwe,http_error,2025-11-20T14:45:25.810427
+Tabrīz,Iran,http_error,2025-11-20T14:45:26.624816

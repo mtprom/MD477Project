@@ -1,0 +1,497 @@
+city,country,iso2,iso3,latitude,longitude,population,aqi,aqi_category,dominant_pollutant,data_quality_flag,collection_timestamp
+Tokyo,Japan,JP,JPN,35.687,139.7495,37785000.0,64.0,Good air quality,pm25,complete,2025-11-20T14:38:31.279676
+Jakarta,Indonesia,ID,IDN,-6.175,106.8275,33756000.0,63.0,Good air quality,pm10,complete,2025-11-20T14:38:32.165895
+Delhi,India,IN,IND,28.61,77.23,32226000.0,14.0,Poor air quality,pm10,complete,2025-11-20T14:38:32.973334
+Guangzhou,China,CN,CHN,23.13,113.26,26940000.0,60.0,Good air quality,pm10,complete,2025-11-20T14:38:33.801853
+Mumbai,India,IN,IND,19.0761,72.8775,24973000.0,19.0,Poor air quality,pm10,complete,2025-11-20T14:38:34.638730
+Manila,Philippines,PH,PHL,14.5958,120.9772,24922000.0,87.0,Excellent air quality,o3,complete,2025-11-20T14:38:35.539648
+Shanghai,China,CN,CHN,31.2286,121.4747,24073000.0,36.0,Low air quality,pm25,complete,2025-11-20T14:38:36.424362
+São Paulo,Brazil,BR,BRA,-23.5504,-46.6339,23086000.0,59.0,Moderate air quality,pm10,complete,2025-11-20T14:38:37.290207
+Seoul,"Korea, South",KR,KOR,37.5667,126.9833,23016000.0,81.0,Excellent air quality,o3,complete,2025-11-20T14:38:38.080263
+Mexico City,Mexico,MX,MEX,19.4333,-99.1333,21804000.0,37.0,Low air quality,pm25,complete,2025-11-20T14:38:38.908328
+Kolkāta,India,IN,IND,22.5675,88.37,21747000.0,19.0,Poor air quality,pm10,complete,2025-11-20T14:38:39.772175
+Cairo,Egypt,EG,EGY,30.0444,31.2358,20296000.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:38:40.658604
+Karachi,Pakistan,PK,PAK,24.86,67.01,20249000.0,49.0,Moderate air quality,pm25,complete,2025-11-20T14:38:41.502361
+Dhaka,Bangladesh,BD,BGD,23.7289,90.3944,19134000.0,17.0,Poor air quality,pm25,complete,2025-11-20T14:38:42.341247
+New York,United States,US,USA,40.6943,-73.9249,18832416.0,79.0,Good air quality,pm10,complete,2025-11-20T14:38:43.144467
+Beijing,China,CN,CHN,39.9067,116.3975,18522000.0,25.0,Low air quality,pm25,complete,2025-11-20T14:38:44.137624
+Bangkok,Thailand,TH,THA,13.7525,100.4942,18007000.0,57.0,Moderate air quality,pm10,complete,2025-11-20T14:38:45.051103
+Shenzhen,China,CN,CHN,22.5415,114.0596,17619000.0,65.0,Good air quality,pm10,complete,2025-11-20T14:38:45.890664
+Moscow,Russia,RU,RUS,55.7506,37.6175,17332000.0,60.0,Good air quality,pm10,complete,2025-11-20T14:38:46.770307
+Buenos Aires,Argentina,AR,ARG,-34.6036,-58.3814,16710000.0,71.0,Good air quality,o3,complete,2025-11-20T14:38:47.649575
+Lagos,Nigeria,NG,NGA,6.455,3.3841,16637000.0,,,,missing_aqi,2025-11-20T14:38:48.465187
+Bangalore,India,IN,IND,12.9789,77.5917,15386000.0,47.0,Moderate air quality,pm10,complete,2025-11-20T14:38:49.284758
+Ho Chi Minh City,Vietnam,VN,VNM,10.7756,106.7019,15136000.0,82.0,Excellent air quality,pm25,complete,2025-11-20T14:38:50.068191
+Ōsaka,Japan,JP,JPN,34.6939,135.5022,15126000.0,59.0,Moderate air quality,pm25,complete,2025-11-20T14:38:50.904420
+Chengdu,China,CN,CHN,30.66,104.0633,14645000.0,36.0,Low air quality,pm25,complete,2025-11-20T14:38:51.770098
+Istanbul,Turkey,TR,TUR,41.0136,28.955,14441000.0,48.0,Moderate air quality,pm25,complete,2025-11-20T14:38:52.697245
+Tehran,Iran,IR,IRN,35.6889,51.3897,14148000.0,,,,missing_aqi,2025-11-20T14:38:53.515143
+Kinshasa,Congo (Kinshasa),CD,COD,-4.3219,15.3119,12836000.0,,,,missing_aqi,2025-11-20T14:38:54.534430
+Rio de Janeiro,Brazil,BR,BRA,-22.9111,-43.2056,12592000.0,71.0,Good air quality,pm10,complete,2025-11-20T14:38:55.372598
+Chennai,India,IN,IND,13.0825,80.275,12395000.0,37.0,Low air quality,pm25,complete,2025-11-20T14:38:56.231128
+Xi’an,China,CN,CHN,34.2611,108.9422,12328000.0,34.0,Low air quality,pm10,complete,2025-11-20T14:38:57.053989
+Lahore,Pakistan,PK,PAK,31.5497,74.3436,12306000.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:38:57.940006
+Chongqing,China,CN,CHN,29.5637,106.5504,12135000.0,39.0,Low air quality,pm25,complete,2025-11-20T14:38:58.800416
+Los Angeles,United States,US,USA,34.1141,-118.4068,11885717.0,72.0,Good air quality,pm10,complete,2025-11-20T14:38:59.586066
+London,United Kingdom,GB,GBR,51.5072,-0.1275,11262000.0,78.0,Good air quality,no2,complete,2025-11-20T14:39:00.461292
+Paris,France,FR,FRA,48.8567,2.3522,11060000.0,80.0,Excellent air quality,no2,complete,2025-11-20T14:39:01.297959
+Linyi,China,CN,CHN,35.1038,118.3564,10820000.0,36.0,Low air quality,pm25,complete,2025-11-20T14:39:02.127824
+Dongguan,China,CN,CHN,23.021,113.752,10646000.0,67.0,Good air quality,pm25,complete,2025-11-20T14:39:02.958095
+Baoding,China,CN,CHN,38.874,115.464,10546831.0,36.0,Low air quality,pm25,complete,2025-11-20T14:39:03.793638
+Hyderābād,India,IN,IND,17.3617,78.4747,10494000.0,28.0,Low air quality,pm25,complete,2025-11-20T14:39:04.592381
+Tianjin,China,CN,CHN,39.1336,117.2054,10368000.0,48.0,Moderate air quality,pm25,complete,2025-11-20T14:39:05.382717
+Lima,Peru,PE,PER,-12.06,-77.0375,10320000.0,65.0,Good air quality,pm25,complete,2025-11-20T14:39:06.203842
+Wuhan,China,CN,CHN,30.5934,114.3046,10251000.0,44.0,Moderate air quality,pm25,complete,2025-11-20T14:39:07.037552
+Nanyang,China,CN,CHN,32.9902,112.5285,9577771.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:39:07.859932
+Hangzhou,China,CN,CHN,30.267,120.153,9523000.0,39.0,Low air quality,pm25,complete,2025-11-20T14:39:08.724513
+Nagoya,Japan,JP,JPN,35.1833,136.9,9197000.0,76.0,Good air quality,pm25,complete,2025-11-20T14:39:09.594772
+Luanda,Angola,AO,AGO,-8.8383,13.2344,9051000.0,,,,missing_aqi,2025-11-20T14:39:10.423892
+Foshan,China,CN,CHN,23.0214,113.1216,9042500.0,72.0,Good air quality,pm25,complete,2025-11-20T14:39:11.251444
+Kuala Lumpur,Malaysia,MY,MYS,3.1686,101.698,8911000.0,74.0,Good air quality,pm25,complete,2025-11-20T14:39:12.081352
+Zhoukou,China,CN,CHN,33.6367,114.7014,8677800.0,33.0,Low air quality,pm25,complete,2025-11-20T14:39:12.957580
+Tongshan,China,CN,CHN,34.261,117.1859,8669000.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:39:13.843898
+Hanoi,Vietnam,VN,VNM,21.0,105.85,8587100.0,67.0,Good air quality,pm25,complete,2025-11-20T14:39:14.678297
+Chicago,United States,US,USA,41.8375,-87.6866,8489066.0,67.0,Good air quality,pm25,complete,2025-11-20T14:39:15.487320
+Nanjing,China,CN,CHN,32.0608,118.7789,8422000.0,52.0,Moderate air quality,pm10,complete,2025-11-20T14:39:16.354165
+Heze,China,CN,CHN,35.2343,115.4796,8287693.0,20.0,Low air quality,pm10,complete,2025-11-20T14:39:17.211434
+Pune,India,IN,IND,18.5203,73.8567,8231000.0,14.0,Poor air quality,pm10,complete,2025-11-20T14:39:18.020822
+Jining,China,CN,CHN,35.4151,116.5871,8081905.0,33.0,Low air quality,pm25,complete,2025-11-20T14:39:18.874757
+Bogotá,Colombia,CO,COL,4.7111,-74.0722,8034649.0,69.0,Good air quality,pm25,complete,2025-11-20T14:39:19.741845
+Ahmedabad,India,IN,IND,23.0225,72.5714,8009000.0,16.0,Poor air quality,pm10,complete,2025-11-20T14:39:20.560654
+Shenyang,China,CN,CHN,41.8025,123.4281,7964000.0,62.0,Good air quality,pm25,complete,2025-11-20T14:39:21.359710
+Dar es Salaam,Tanzania,TZ,TZA,-6.8161,39.2803,7962000.0,,,,missing_aqi,2025-11-20T14:39:22.161941
+Khartoum,Sudan,SD,SDN,15.6031,32.5265,7869000.0,,,,missing_aqi,2025-11-20T14:39:23.012407
+Johannesburg,South Africa,ZA,ZAF,-26.2044,28.0456,7860781.0,76.0,Good air quality,pm10,complete,2025-11-20T14:39:23.837856
+Fuyang,China,CN,CHN,32.89,115.814,7599913.0,31.0,Low air quality,pm25,complete,2025-11-20T14:39:24.668244
+Hong Kong,Hong Kong,HK,HKG,22.3,114.2,7450000.0,73.0,Good air quality,o3,complete,2025-11-20T14:39:25.470102
+Ganzhou,China,CN,CHN,25.831,114.933,7396873.0,71.0,Good air quality,o3,complete,2025-11-20T14:39:26.351713
+Shangqiu,China,CN,CHN,34.415,115.656,7325300.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:39:27.227191
+Cangzhou,China,CN,CHN,38.3047,116.8387,7300783.0,54.0,Moderate air quality,pm25,complete,2025-11-20T14:39:28.112187
+Riyadh,Saudi Arabia,SA,SAU,24.65,46.71,7237000.0,4.0,Poor air quality,pm10,complete,2025-11-20T14:39:28.979309
+Santiago,Chile,CL,CHL,-33.4372,-70.6506,7171000.0,50.0,Moderate air quality,pm10,complete,2025-11-20T14:39:29.834068
+Zhumadian,China,CN,CHN,33.014,114.022,7008427.0,39.0,Low air quality,pm25,complete,2025-11-20T14:39:30.669759
+Zhanjiang,China,CN,CHN,21.2701,110.3575,6981236.0,59.0,Moderate air quality,pm25,complete,2025-11-20T14:39:31.532335
+Rangoon,Burma,MM,MMR,16.795,96.16,6874000.0,,,,missing_aqi,2025-11-20T14:39:32.329170
+Yancheng,China,CN,CHN,33.35,120.1569,6709629.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:39:33.183744
+Bijie,China,CN,CHN,27.284,105.292,6686100.0,74.0,Good air quality,pm25,complete,2025-11-20T14:39:34.059986
+Xingtai,China,CN,CHN,37.0717,114.5048,6645766.0,51.0,Moderate air quality,pm10,complete,2025-11-20T14:39:34.898813
+Hengyang,China,CN,CHN,26.894,112.572,6645243.0,49.0,Moderate air quality,pm25,complete,2025-11-20T14:39:35.752216
+Shaoyang,China,CN,CHN,27.2395,111.4679,6563520.0,39.0,Low air quality,pm25,complete,2025-11-20T14:39:36.570633
+Surabaya,Indonesia,ID,IDN,-7.2458,112.7378,6556000.0,39.0,Low air quality,pm25,complete,2025-11-20T14:39:37.445729
+Sūrat,India,IN,IND,21.205,72.84,6538000.0,31.0,Low air quality,pm25,complete,2025-11-20T14:39:38.296930
+Quanzhou,China,CN,CHN,24.8744,118.6757,6480000.0,74.0,Good air quality,o3,complete,2025-11-20T14:39:39.178731
+Shangrao,China,CN,CHN,28.4551,117.9431,6435300.0,52.0,Moderate air quality,pm25,complete,2025-11-20T14:39:40.007750
+Zunyi,China,CN,CHN,27.722,107.031,6270700.0,63.0,Good air quality,pm25,complete,2025-11-20T14:39:40.861115
+Madrid,Spain,ES,ESP,40.4169,-3.7033,6211000.0,72.0,Good air quality,o3,complete,2025-11-20T14:39:41.694404
+Baghdad,Iraq,IQ,IRQ,33.3153,44.3661,6183000.0,,,,missing_aqi,2025-11-20T14:39:42.502296
+Maoming,China,CN,CHN,21.6627,110.9255,6174050.0,69.0,Good air quality,pm25,complete,2025-11-20T14:39:43.337372
+Miami,United States,US,USA,25.784,-80.2101,6113982.0,61.0,Good air quality,pm10,complete,2025-11-20T14:39:44.185216
+Xinyang,China,CN,CHN,32.149,114.091,6109106.0,53.0,Moderate air quality,pm25,complete,2025-11-20T14:39:45.017611
+Houston,United States,US,USA,29.786,-95.3885,6046392.0,36.0,Low air quality,pm10,complete,2025-11-20T14:39:45.780385
+Singapore,Singapore,SG,SGP,1.3,103.8,5983000.0,78.0,Good air quality,pm10,complete,2025-11-20T14:39:46.621632
+Prayagraj,India,IN,IND,25.4358,81.8464,5954391.0,23.0,Low air quality,pm25,complete,2025-11-20T14:39:47.420642
+Huanggang,China,CN,CHN,30.4537,114.8724,5882719.0,42.0,Moderate air quality,pm25,complete,2025-11-20T14:39:48.269511
+Dalian,China,CN,CHN,38.9,121.6,5871474.0,78.0,Good air quality,o3,complete,2025-11-20T14:39:49.096916
+Ankara,Turkey,TR,TUR,39.93,32.85,5864049.0,50.0,Moderate air quality,pm25,complete,2025-11-20T14:39:49.919197
+Dallas,United States,US,USA,32.7935,-96.7667,5843632.0,89.0,Excellent air quality,pm10,complete,2025-11-20T14:39:50.775998
+Qingdao,China,CN,CHN,36.0669,120.3827,5818255.0,49.0,Moderate air quality,pm25,complete,2025-11-20T14:39:51.600497
+Yulin,China,CN,CHN,22.654,110.181,5796766.0,64.0,Good air quality,pm10,complete,2025-11-20T14:39:52.421685
+Liaocheng,China,CN,CHN,36.4559,115.9852,5789863.0,34.0,Low air quality,pm25,complete,2025-11-20T14:39:53.218117
+Douala,Cameroon,CM,CMR,4.05,9.7,5768400.0,,,,missing_aqi,2025-11-20T14:39:54.024877
+Qujing,China,CN,CHN,25.491,103.796,5765775.0,59.0,Moderate air quality,pm25,complete,2025-11-20T14:39:54.876024
+Nangandao,China,CN,CHN,35.3036,113.9268,5708191.0,35.0,Low air quality,pm25,complete,2025-11-20T14:39:55.731759
+Addis Ababa,Ethiopia,ET,ETH,9.03,38.74,5704000.0,54.0,Moderate air quality,pm10,complete,2025-11-20T14:39:56.589554
+Philadelphia,United States,US,USA,40.0077,-75.1339,5696588.0,72.0,Good air quality,pm10,complete,2025-11-20T14:39:57.407059
+Toronto,Canada,CA,CAN,43.7417,-79.3733,5647656.0,79.0,Good air quality,pm25,complete,2025-11-20T14:39:58.228783
+Zhengzhou,China,CN,CHN,34.764,113.684,5621593.0,44.0,Moderate air quality,pm25,complete,2025-11-20T14:39:59.060171
+Nanchong,China,CN,CHN,30.8372,106.1106,5607565.0,33.0,Low air quality,pm25,complete,2025-11-20T14:39:59.877753
+Jinan,China,CN,CHN,36.6702,117.0207,5606374.0,56.0,Moderate air quality,pm10,complete,2025-11-20T14:40:00.759042
+Giza,Egypt,EG,EGY,29.987,31.2118,5598402.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:40:01.586299
+Saint Petersburg,Russia,RU,RUS,59.9375,30.3086,5597763.0,70.0,Good air quality,pm25,complete,2025-11-20T14:40:02.419272
+Jieyang,China,CN,CHN,23.551,116.3727,5577814.0,39.0,Low air quality,pm25,complete,2025-11-20T14:40:03.318850
+Dezhou,China,CN,CHN,37.436,116.359,5568235.0,28.0,Low air quality,pm25,complete,2025-11-20T14:40:04.148650
+Nairobi,Kenya,KE,KEN,-1.2864,36.8172,5545000.0,71.0,Good air quality,pm25,complete,2025-11-20T14:40:05.015790
+Guadalajara,Mexico,MX,MEX,20.6767,-103.3475,5525000.0,42.0,Moderate air quality,o3,complete,2025-11-20T14:40:05.821900
+Tai’an,China,CN,CHN,36.202,117.087,5472217.0,37.0,Low air quality,pm25,complete,2025-11-20T14:40:06.662950
+Dazhou,China,CN,CHN,31.2093,107.4678,5385422.0,39.0,Low air quality,pm25,complete,2025-11-20T14:40:07.486324
+Belo Horizonte,Brazil,BR,BRA,-19.9281,-43.9419,5328000.0,54.0,Moderate air quality,pm10,complete,2025-11-20T14:40:08.416691
+Suzhou,China,CN,CHN,33.648,116.964,5324476.0,21.0,Low air quality,pm25,complete,2025-11-20T14:40:09.268569
+Monterrey,Mexico,MX,MEX,25.6844,-100.3181,5324281.0,47.0,Moderate air quality,pm25,complete,2025-11-20T14:40:10.083745
+Yongzhou,China,CN,CHN,26.42,111.613,5289824.0,55.0,Moderate air quality,pm25,complete,2025-11-20T14:40:10.912559
+Changde,China,CN,CHN,29.031,111.699,5279102.0,36.0,Low air quality,pm25,complete,2025-11-20T14:40:11.768787
+Xiangyang,China,CN,CHN,32.01,112.122,5260951.0,45.0,Moderate air quality,pm10,complete,2025-11-20T14:40:12.647074
+Atlanta,United States,US,USA,33.7628,-84.422,5211164.0,73.0,Good air quality,pm25,complete,2025-11-20T14:40:13.490667
+Pudong,China,CN,CHN,31.2347,121.5064,5187200.0,35.0,Low air quality,pm25,complete,2025-11-20T14:40:14.322672
+Washington,United States,US,USA,38.9047,-77.0163,5146120.0,78.0,Good air quality,pm25,complete,2025-11-20T14:40:15.122195
+Zhaotong,China,CN,CHN,27.338,103.717,5092611.0,77.0,Good air quality,pm10,complete,2025-11-20T14:40:15.963539
+Zhangzhou,China,CN,CHN,24.513,117.647,5054328.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:40:16.786063
+Yueyang,China,CN,CHN,29.3647,113.1309,5051922.0,37.0,Low air quality,pm25,complete,2025-11-20T14:40:17.571585
+Melbourne,Australia,AU,AUS,-37.8142,144.9631,5031195.0,88.0,Excellent air quality,o3,complete,2025-11-20T14:40:18.439291
+Yichun,China,CN,CHN,27.816,114.417,5007702.0,68.0,Good air quality,pm25,complete,2025-11-20T14:40:19.291953
+Abidjan,Côte d’Ivoire,CI,CIV,5.3364,-4.0267,4980000.0,,,,missing_aqi,2025-11-20T14:40:20.109781
+Guilin,China,CN,CHN,25.275,110.296,4931137.0,60.0,Good air quality,pm25,complete,2025-11-20T14:40:20.942671
+Pingdingshan,China,CN,CHN,33.7666,113.1926,4904701.0,39.0,Low air quality,pm25,complete,2025-11-20T14:40:21.732008
+Alexandria,Egypt,EG,EGY,31.1975,29.8925,4870000.0,38.0,Low air quality,pm25,complete,2025-11-20T14:40:22.556563
+Bozhou,China,CN,CHN,33.8463,115.7786,4850657.0,21.0,Low air quality,pm25,complete,2025-11-20T14:40:23.393639
+Sydney,Australia,AU,AUS,-33.8667,151.2,4840600.0,84.0,Excellent air quality,o3,complete,2025-11-20T14:40:24.189500
+Barcelona,Spain,ES,ESP,41.3833,2.1833,4800000.0,77.0,Good air quality,pm10,complete,2025-11-20T14:40:25.021590
+Yuncheng,China,CN,CHN,35.0267,111.007,4774508.0,34.0,Low air quality,pm25,complete,2025-11-20T14:40:25.809335
+Cape Town,South Africa,ZA,ZAF,-33.9253,18.4239,4770313.0,81.0,Excellent air quality,pm25,complete,2025-11-20T14:40:26.690728
+Changsha,China,CN,CHN,28.228,112.939,4766296.0,37.0,Low air quality,pm25,complete,2025-11-20T14:40:27.518896
+Suqian,China,CN,CHN,33.963,118.275,4719178.0,22.0,Low air quality,pm25,complete,2025-11-20T14:40:28.307163
+Jeddah,Saudi Arabia,SA,SAU,21.5428,39.1728,4697000.0,36.0,Low air quality,pm10,complete,2025-11-20T14:40:29.152351
+Weinan,China,CN,CHN,34.5206,109.471,4688744.0,48.0,Moderate air quality,pm10,complete,2025-11-20T14:40:29.993213
+Berlin,Germany,DE,DEU,52.52,13.405,4679500.0,86.0,Excellent air quality,o3,complete,2025-11-20T14:40:30.849222
+Chenzhou,China,CN,CHN,25.77,113.016,4667134.0,49.0,Moderate air quality,pm25,complete,2025-11-20T14:40:31.698116
+Jiangmen,China,CN,CHN,22.5789,113.0815,4630300.0,59.0,Moderate air quality,pm10,complete,2025-11-20T14:40:32.531660
+Mianyang,China,CN,CHN,31.468,104.679,4613862.0,31.0,Low air quality,pm25,complete,2025-11-20T14:40:33.353029
+Jiujiang,China,CN,CHN,29.661,115.954,4600276.0,38.0,Low air quality,pm25,complete,2025-11-20T14:40:34.189887
+Huaihua,China,CN,CHN,27.5698,110.0016,4587594.0,57.0,Moderate air quality,pm25,complete,2025-11-20T14:40:35.026629
+Huanglongsi,China,CN,CHN,34.795,114.345,4564900.0,27.0,Low air quality,pm25,complete,2025-11-20T14:40:35.886202
+Taizhou,China,CN,CHN,32.4567,119.9229,4512762.0,35.0,Low air quality,pm25,complete,2025-11-20T14:40:36.674989
+Belāhi,India,IN,IND,26.4,86.25,4487379.0,34.0,Low air quality,pm25,complete,2025-11-20T14:40:37.534642
+Yibin,China,CN,CHN,28.752,104.643,4471896.0,39.0,Low air quality,pm25,complete,2025-11-20T14:40:38.350875
+Ji’an,China,CN,CHN,27.0912,114.9668,4469176.0,56.0,Moderate air quality,pm25,complete,2025-11-20T14:40:39.230160
+Yangzhou,China,CN,CHN,32.3944,119.4128,4459760.0,36.0,Low air quality,pm25,complete,2025-11-20T14:40:40.012730
+Kunming,China,CN,CHN,25.0464,102.7094,4422686.0,58.0,Moderate air quality,pm25,complete,2025-11-20T14:40:40.816773
+Changchun,China,CN,CHN,43.897,125.326,4408154.0,51.0,Moderate air quality,pm25,complete,2025-11-20T14:40:41.654312
+Lu’an,China,CN,CHN,31.736,116.52,4393699.0,49.0,Moderate air quality,pm25,complete,2025-11-20T14:40:42.474683
+Xinpu,China,CN,CHN,34.5966,119.2214,4393482.0,33.0,Low air quality,pm25,complete,2025-11-20T14:40:43.323976
+Langfang,China,CN,CHN,39.5383,116.6835,4358839.0,40.0,Moderate air quality,pm25,complete,2025-11-20T14:40:44.133607
+Boston,United States,US,USA,42.3188,-71.0852,4355184.0,28.0,Low air quality,pm10,complete,2025-11-20T14:40:44.973126
+Ürümqi,China,CN,CHN,43.8225,87.6125,4335017.0,25.0,Low air quality,pm10,complete,2025-11-20T14:40:45.806457
+Guigang,China,CN,CHN,23.112,109.599,4316262.0,63.0,Good air quality,pm25,complete,2025-11-20T14:40:47.444471
+Shantou,China,CN,CHN,23.354,116.682,4312192.0,48.0,Moderate air quality,pm25,complete,2025-11-20T14:40:48.270873
+Jiangguanchi,China,CN,CHN,34.037,113.852,4307488.0,39.0,Low air quality,pm10,complete,2025-11-20T14:40:49.118211
+Kabul,Afghanistan,AF,AFG,34.5253,69.1783,4273156.0,,,,missing_aqi,2025-11-20T14:40:49.960381
+Xiaoganzhan,China,CN,CHN,30.918,113.957,4270371.0,35.0,Low air quality,pm25,complete,2025-11-20T14:40:50.778685
+Bamako,Mali,ML,MLI,12.6458,-7.9922,4227569.0,,,,missing_aqi,2025-11-20T14:40:51.592389
+Kano,Nigeria,NG,NGA,12.0,8.5167,4224966.0,,,,missing_aqi,2025-11-20T14:40:52.403911
+Luzhou,China,CN,CHN,28.871,105.442,4218427.0,47.0,Moderate air quality,pm25,complete,2025-11-20T14:40:53.279248
+Hefei,China,CN,CHN,31.8206,117.2273,4216940.0,36.0,Low air quality,pm25,complete,2025-11-20T14:40:54.170647
+Hengshui,China,CN,CHN,37.739,115.669,4212933.0,44.0,Moderate air quality,pm10,complete,2025-11-20T14:40:54.999254
+Fortaleza,Brazil,BR,BRA,-3.7275,-38.5275,4167996.0,75.0,Good air quality,pm25,complete,2025-11-20T14:40:55.902190
+Anqing,China,CN,CHN,30.5318,117.1153,4165284.0,37.0,Low air quality,pm25,complete,2025-11-20T14:40:56.783288
+Zhangjiakou,China,CN,CHN,40.769,114.886,4118908.0,78.0,Good air quality,o3,complete,2025-11-20T14:40:57.631076
+Zhaoqing,China,CN,CHN,23.05,112.4667,4113594.0,74.0,Good air quality,pm25,complete,2025-11-20T14:40:58.459008
+Shijiazhuang,China,CN,CHN,38.0425,114.51,4098243.0,50.0,Moderate air quality,pm10,complete,2025-11-20T14:40:59.318579
+Ningbo,China,CN,CHN,29.8603,121.6245,4087523.0,29.0,Low air quality,pm25,complete,2025-11-20T14:41:00.148667
+Qiqihar,China,CN,CHN,47.3549,123.9182,4067489.0,50.0,Moderate air quality,pm25,complete,2025-11-20T14:41:01.028470
+Phoenix,United States,US,USA,33.5722,-112.0892,4065338.0,76.0,Good air quality,o3,complete,2025-11-20T14:41:01.848149
+Liuzhou,China,CN,CHN,24.3278,109.4278,4041700.0,76.0,Good air quality,o3,complete,2025-11-20T14:41:02.680858
+Chifeng,China,CN,CHN,42.255,118.8825,4035967.0,74.0,Good air quality,o3,complete,2025-11-20T14:41:03.543141
+Xiaoxita,China,CN,CHN,30.692,111.287,4017607.0,62.0,Good air quality,pm25,complete,2025-11-20T14:41:04.382105
+Amman,Jordan,JO,JOR,31.9497,35.9328,4007526.0,31.0,Low air quality,pm10,complete,2025-11-20T14:41:05.219679
+Linfen,China,CN,CHN,36.088,111.519,3976481.0,47.0,Moderate air quality,pm10,complete,2025-11-20T14:41:06.063321
+Xianyang,China,CN,CHN,34.3299,108.7088,3959842.0,30.0,Low air quality,pm25,complete,2025-11-20T14:41:06.878129
+Chuzhou,China,CN,CHN,32.256,118.333,3937868.0,43.0,Moderate air quality,pm25,complete,2025-11-20T14:41:07.748325
+Kumasi,Ghana,GH,GHA,6.7,-1.625,3903480.0,,,,missing_aqi,2025-11-20T14:41:08.562622
+Zhuzhou,China,CN,CHN,27.829,113.133,3902738.0,37.0,Low air quality,pm25,complete,2025-11-20T14:41:09.459040
+Taiyuan,China,CN,CHN,37.8704,112.5497,3875053.0,47.0,Moderate air quality,pm25,complete,2025-11-20T14:41:10.294757
+Qingyuan,China,CN,CHN,23.682,113.056,3874000.0,71.0,Good air quality,o3,complete,2025-11-20T14:41:11.128151
+Meizhou,China,CN,CHN,24.289,116.122,3873239.0,58.0,Moderate air quality,pm10,complete,2025-11-20T14:41:11.975858
+Yiyang,China,CN,CHN,28.5549,112.356,3851564.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:41:12.809988
+Nanning,China,CN,CHN,22.8167,108.3275,3837978.0,76.0,Good air quality,pm10,complete,2025-11-20T14:41:13.649118
+Harbin,China,CN,CHN,45.7576,126.6409,3830000.0,52.0,Moderate air quality,pm10,complete,2025-11-20T14:41:14.523977
+Loudi,China,CN,CHN,27.6998,111.9944,3826996.0,40.0,Moderate air quality,pm25,complete,2025-11-20T14:41:15.356344
+Abuja,Nigeria,NG,NGA,9.0667,7.4833,3770000.0,,,,missing_aqi,2025-11-20T14:41:16.172084
+Yokohama,Japan,JP,JPN,35.4442,139.6381,3757630.0,78.0,Good air quality,pm25,complete,2025-11-20T14:41:17.023330
+Suihua,China,CN,CHN,46.654,126.969,3756167.0,39.0,Low air quality,pm25,complete,2025-11-20T14:41:17.906525
+Binzhou,China,CN,CHN,37.383,117.971,3748474.0,48.0,Moderate air quality,pm25,complete,2025-11-20T14:41:18.750154
+Zaozhuang,China,CN,CHN,34.8109,117.3238,3729140.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:41:19.552873
+Detroit,United States,US,USA,42.3834,-83.1024,3716929.0,65.0,Good air quality,pm10,complete,2025-11-20T14:41:20.375914
+Xiamen,China,CN,CHN,24.4796,118.0889,3707090.0,60.0,Good air quality,pm25,complete,2025-11-20T14:41:21.230399
+Mashhad,Iran,IR,IRN,36.3264,59.5433,3700000.0,,,,missing_aqi,2025-11-20T14:41:22.069582
+Montréal,Canada,CA,CAN,45.5089,-73.5617,3675219.0,61.0,Good air quality,pm25,complete,2025-11-20T14:41:22.903889
+Fuzhou,China,CN,CHN,26.0743,119.2964,3671192.0,68.0,Good air quality,pm10,complete,2025-11-20T14:41:23.742045
+Wuhu,China,CN,CHN,31.3526,118.4331,3644420.0,37.0,Low air quality,pm25,complete,2025-11-20T14:41:24.514843
+Medan,Indonesia,ID,IDN,3.5894,98.6739,3632000.0,59.0,Moderate air quality,pm10,complete,2025-11-20T14:41:25.312685
+Yulinshi,China,CN,CHN,38.2858,109.7341,3624750.0,50.0,Moderate air quality,pm10,complete,2025-11-20T14:41:26.198298
+Wenzhou,China,CN,CHN,27.9938,120.6993,3604446.0,38.0,Low air quality,pm10,complete,2025-11-20T14:41:27.924544
+Changzhou,China,CN,CHN,31.811,119.974,3601079.0,36.0,Low air quality,pm25,complete,2025-11-20T14:41:28.756825
+Puyang,China,CN,CHN,35.7627,115.0292,3598740.0,37.0,Low air quality,pm25,complete,2025-11-20T14:41:29.585904
+Nanchang,China,CN,CHN,28.683,115.858,3576547.0,51.0,Moderate air quality,pm10,complete,2025-11-20T14:41:30.427442
+Baicheng,China,CN,CHN,23.903,106.619,3571505.0,80.0,Excellent air quality,pm10,complete,2025-11-20T14:41:31.262239
+Seattle,United States,US,USA,47.6211,-122.3244,3555253.0,80.0,Excellent air quality,no2,complete,2025-11-20T14:41:32.026782
+Ibadan,Nigeria,NG,NGA,7.3964,3.9167,3552000.0,,,,missing_aqi,2025-11-20T14:41:32.836717
+Jiaozuo,China,CN,CHN,35.2157,113.2419,3521078.0,50.0,Moderate air quality,pm10,complete,2025-11-20T14:41:33.670557
+Nādampālaiyam,India,IN,IND,11.0125,76.9714,3458045.0,51.0,Moderate air quality,pm25,complete,2025-11-20T14:41:34.476628
+Deyang,China,CN,CHN,31.127,104.398,3456161.0,37.0,Low air quality,pm25,complete,2025-11-20T14:41:35.259411
+Busan,"Korea, South",KR,KOR,35.18,129.075,3453198.0,68.0,Good air quality,pm25,complete,2025-11-20T14:41:36.093187
+Hechi,China,CN,CHN,24.693,108.085,3417945.0,73.0,Good air quality,pm25,complete,2025-11-20T14:41:36.933888
+Tangshan,China,CN,CHN,39.6294,118.1739,3399231.0,46.0,Moderate air quality,pm25,complete,2025-11-20T14:41:37.757966
+Lucknow,India,IN,IND,26.85,80.95,3382000.0,8.0,Poor air quality,pm10,complete,2025-11-20T14:41:38.625800
+San Francisco,United States,US,USA,37.7558,-122.4449,3364862.0,83.0,Excellent air quality,no2,complete,2025-11-20T14:41:39.429333
+Boankra,Ghana,GH,GHA,6.6919,-1.4051,3348000.0,,,,missing_aqi,2025-11-20T14:41:40.247575
+Dubai,United Arab Emirates,AE,ARE,25.2631,55.2972,3331420.0,38.0,Low air quality,pm25,complete,2025-11-20T14:41:41.059686
+Anshan,China,CN,CHN,41.108,122.994,3325372.0,66.0,Good air quality,pm10,complete,2025-11-20T14:41:41.911355
+Guozhen,China,CN,CHN,34.3609,107.1751,3321853.0,60.0,Good air quality,pm25,complete,2025-11-20T14:41:42.823275
+Baojishi,China,CN,CHN,34.363,107.238,3321853.0,52.0,Moderate air quality,pm25,complete,2025-11-20T14:41:43.659410
+Qinzhou,China,CN,CHN,21.981,108.654,3302238.0,68.0,Good air quality,pm25,complete,2025-11-20T14:41:44.423826
+Guiyang,China,CN,CHN,26.647,106.63,3299724.0,63.0,Good air quality,pm10,complete,2025-11-20T14:41:45.224823
+Wuxi,China,CN,CHN,31.5667,120.2833,3245179.0,50.0,Moderate air quality,pm25,complete,2025-11-20T14:41:46.058888
+Kannankulam,India,IN,IND,10.52,76.21,3243170.0,49.0,Moderate air quality,pm25,complete,2025-11-20T14:41:46.951691
+Caracas,Venezuela,VE,VEN,10.4806,-66.9036,3242000.0,81.0,Excellent air quality,o3,complete,2025-11-20T14:41:47.786310
+Kotla Qasim Khan,Pakistan,PK,PAK,32.5833,73.75,3219375.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:41:48.655998
+Casablanca,Morocco,MA,MAR,33.5333,-7.5833,3215935.0,63.0,Good air quality,pm25,complete,2025-11-20T14:41:49.546660
+Hanzhong,China,CN,CHN,33.0664,107.0232,3211462.0,35.0,Low air quality,pm25,complete,2025-11-20T14:41:50.368241
+Shiyan,China,CN,CHN,32.629,110.7987,3209004.0,67.0,Good air quality,pm25,complete,2025-11-20T14:41:51.191247
+Guang’an,China,CN,CHN,30.4564,106.6326,3205476.0,37.0,Low air quality,pm25,complete,2025-11-20T14:41:52.027963
+Faisalabad,Pakistan,PK,PAK,31.4167,73.0911,3203846.0,15.0,Poor air quality,pm25,complete,2025-11-20T14:41:52.888060
+Changzhi,China,CN,CHN,36.195,113.117,3180884.0,44.0,Moderate air quality,pm25,complete,2025-11-20T14:41:53.688249
+Tongren,China,CN,CHN,27.7316,109.1895,3168800.0,59.0,Moderate air quality,pm25,complete,2025-11-20T14:41:54.539333
+Bengbu,China,CN,CHN,32.917,117.389,3164467.0,36.0,Low air quality,pm25,complete,2025-11-20T14:41:55.381844
+Leshan,China,CN,CHN,29.552,103.766,3160168.0,40.0,Moderate air quality,pm25,complete,2025-11-20T14:41:56.252748
+Santa Cruz de la Sierra,Bolivia,BO,BOL,-17.7892,-63.1975,3151676.0,,,,missing_aqi,2025-11-20T14:41:57.062901
+Neijiang,China,CN,CHN,29.5802,105.058,3140678.0,33.0,Low air quality,pm25,complete,2025-11-20T14:41:57.902581
+Zhenjiang,China,CN,CHN,32.188,119.424,3113384.0,45.0,Moderate air quality,pm25,complete,2025-11-20T14:41:58.679178
+Qinhuangdao,China,CN,CHN,39.8882,119.5202,3107400.0,55.0,Moderate air quality,pm25,complete,2025-11-20T14:41:59.518249
+Bursa,Turkey,TR,TUR,40.1833,29.05,3101833.0,53.0,Moderate air quality,pm25,complete,2025-11-20T14:42:00.365773
+Tashkent,Uzbekistan,UZ,UZB,41.3111,69.2797,3095498.0,,,,missing_aqi,2025-11-20T14:42:01.198152
+Guayaquil,Ecuador,EC,ECU,-2.19,-79.8875,3094420.0,73.0,Good air quality,o3,complete,2025-11-20T14:42:02.024323
+Jaipur,India,IN,IND,26.9,75.8,3073350.0,18.0,Poor air quality,pm10,complete,2025-11-20T14:42:02.844143
+Lanzhou,China,CN,CHN,36.0606,103.8268,3067141.0,60.0,Good air quality,pm10,complete,2025-11-20T14:42:03.697672
+Ouagadougou,Burkina Faso,BF,BFA,12.3686,-1.5275,3063271.0,,,,missing_aqi,2025-11-20T14:42:04.527395
+Athens,Greece,GR,GRC,37.9842,23.7281,3059764.0,64.0,Good air quality,pm10,complete,2025-11-20T14:42:05.386531
+San Diego,United States,US,USA,32.8313,-117.1222,3057778.0,71.0,Good air quality,o3,complete,2025-11-20T14:42:06.235004
+Guatemala City,Guatemala,GT,GTM,14.6417,-90.5133,3014000.0,,,,missing_aqi,2025-11-20T14:42:07.036904
+Kuwait City,Kuwait,KW,KWT,29.3697,47.9783,2989000.0,4.0,Poor air quality,pm10,complete,2025-11-20T14:42:07.876527
+Qincheng,China,CN,CHN,34.5815,105.7248,2984659.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:42:08.702067
+İzmir,Turkey,TR,TUR,38.42,27.14,2965900.0,52.0,Moderate air quality,pm25,complete,2025-11-20T14:42:09.559229
+Quezon City,Philippines,PH,PHL,14.65,121.0475,2960048.0,86.0,Excellent air quality,pm25,complete,2025-11-20T14:42:10.382305
+Kyiv,Ukraine,UA,UKR,50.45,30.5233,2952301.0,80.0,Excellent air quality,pm25,complete,2025-11-20T14:42:11.211563
+Kottārasshēri,India,IN,IND,10.775,76.651,2952254.0,51.0,Moderate air quality,pm25,complete,2025-11-20T14:42:12.045822
+Meishan,China,CN,CHN,30.0771,103.8484,2950545.0,38.0,Low air quality,pm25,complete,2025-11-20T14:42:12.885102
+Incheon,"Korea, South",KR,KOR,37.4833,126.6333,2936117.0,83.0,Excellent air quality,o3,complete,2025-11-20T14:42:13.809201
+Ningde,China,CN,CHN,26.6662,119.5477,2910000.0,73.0,Good air quality,pm25,complete,2025-11-20T14:42:14.642968
+Zhongshan,China,CN,CHN,22.517,113.3925,2909633.0,58.0,Moderate air quality,pm10,complete,2025-11-20T14:42:15.498049
+Minneapolis,United States,US,USA,44.9635,-93.2678,2906807.0,69.0,Good air quality,pm25,complete,2025-11-20T14:42:16.297836
+Tampa,United States,US,USA,27.9945,-82.4447,2906035.0,55.0,Moderate air quality,o3,complete,2025-11-20T14:42:17.136756
+Putian,China,CN,CHN,25.4526,119.0078,2900000.0,63.0,Good air quality,o3,complete,2025-11-20T14:42:17.958913
+Mbuji-Mayi,Congo (Kinshasa),CD,COD,-6.15,23.6,2892000.0,,,,missing_aqi,2025-11-20T14:42:18.723242
+Tongliao,China,CN,CHN,43.654,122.243,2873168.0,59.0,Moderate air quality,pm10,complete,2025-11-20T14:42:19.561323
+Chaoyang,China,CN,CHN,41.571,120.453,2872857.0,70.0,Good air quality,pm10,complete,2025-11-20T14:42:20.412644
+Hohhot,China,CN,CHN,40.842,111.749,2866615.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:42:21.258238
+Pyongyang,"Korea, North",KP,PRK,39.0167,125.7475,2863000.0,,,,missing_aqi,2025-11-20T14:42:22.070177
+Shaoguan,China,CN,CHN,24.811,113.597,2855131.0,69.0,Good air quality,pm25,complete,2025-11-20T14:42:22.948153
+Taichung,Taiwan,TW,TWN,24.1439,120.6794,2850285.0,76.0,Good air quality,pm10,complete,2025-11-20T14:42:23.777765
+Cali,Colombia,CO,COL,3.4206,-76.5222,2838333.0,82.0,Excellent air quality,pm25,complete,2025-11-20T14:42:24.631228
+Heyuan,China,CN,CHN,23.7443,114.7002,2837686.0,71.0,Good air quality,o3,complete,2025-11-20T14:42:25.459092
+Wuzhou,China,CN,CHN,23.4767,111.279,2820977.0,48.0,Moderate air quality,pm25,complete,2025-11-20T14:42:26.300495
+Pretoria,South Africa,ZA,ZAF,-25.7461,28.1881,2818100.0,64.0,Good air quality,pm10,complete,2025-11-20T14:42:27.134115
+Suining,China,CN,CHN,30.533,105.593,2814196.0,48.0,Moderate air quality,pm10,complete,2025-11-20T14:42:27.970296
+Omdurman,Sudan,SD,SDN,15.6835,32.4629,2805396.0,,,,missing_aqi,2025-11-20T14:42:28.769586
+Weihai,China,CN,CHN,37.5133,122.1205,2804771.0,82.0,Excellent air quality,pm10,complete,2025-11-20T14:42:29.645116
+Rizhao,China,CN,CHN,35.417,119.527,2801013.0,59.0,Moderate air quality,pm10,complete,2025-11-20T14:42:30.502418
+Malang,Indonesia,ID,IDN,-7.98,112.62,2795209.0,40.0,Moderate air quality,pm25,complete,2025-11-20T14:42:31.288164
+Stuttgart,Germany,DE,DEU,48.7775,9.18,2787724.0,83.0,Excellent air quality,pm10,complete,2025-11-20T14:42:32.144689
+Daqing,China,CN,CHN,46.589,125.104,2781562.0,59.0,Moderate air quality,pm25,complete,2025-11-20T14:42:32.962611
+Rome,Italy,IT,ITA,41.8931,12.4828,2748109.0,71.0,Good air quality,pm10,complete,2025-11-20T14:42:33.785993
+Kaohsiung,Taiwan,TW,TWN,22.615,120.2975,2737660.0,56.0,Moderate air quality,pm10,complete,2025-11-20T14:42:34.591962
+Brooklyn,United States,US,USA,40.6501,-73.9496,2736074.0,77.0,Good air quality,pm10,complete,2025-11-20T14:42:35.382879
+Xiangtan,China,CN,CHN,27.8313,112.9454,2726181.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:42:36.199297
+Bazhou,China,CN,CHN,31.868,106.748,2712894.0,51.0,Moderate air quality,pm25,complete,2025-11-20T14:42:37.025286
+Handan,China,CN,CHN,36.601,114.487,2708015.0,33.0,Low air quality,pm25,complete,2025-11-20T14:42:37.867957
+Brisbane,Australia,AU,AUS,-27.4678,153.0281,2706966.0,84.0,Excellent air quality,pm10,complete,2025-11-20T14:42:38.656368
+Jinzhou,China,CN,CHN,41.129,121.148,2703853.0,53.0,Moderate air quality,pm25,complete,2025-11-20T14:42:39.437786
+Denver,United States,US,USA,39.762,-104.8758,2691349.0,57.0,Moderate air quality,pm10,complete,2025-11-20T14:42:40.218514
+Xinzhou,China,CN,CHN,38.416,112.734,2689668.0,66.0,Good air quality,pm10,complete,2025-11-20T14:42:41.045710
+Nanping,China,CN,CHN,26.6418,118.1774,2680645.0,72.0,Good air quality,pm25,complete,2025-11-20T14:42:41.878855
+Gāzipura,Bangladesh,BD,BGD,23.9234,90.3959,2674697.0,18.0,Poor air quality,pm25,complete,2025-11-20T14:42:42.784760
+Shanwei,China,CN,CHN,22.7872,115.3756,2672819.0,59.0,Moderate air quality,pm25,complete,2025-11-20T14:42:43.624606
+Maracaibo,Venezuela,VE,VEN,10.6333,-71.6333,2658355.0,62.0,Good air quality,o3,complete,2025-11-20T14:42:44.491680
+Chaozhou,China,CN,CHN,23.658,116.622,2656600.0,76.0,Good air quality,pm25,complete,2025-11-20T14:42:45.319981
+Baotou,China,CN,CHN,40.6213,109.9532,2650364.0,43.0,Moderate air quality,pm25,complete,2025-11-20T14:42:46.156854
+Longyan,China,CN,CHN,25.076,117.017,2640000.0,78.0,Good air quality,pm25,complete,2025-11-20T14:42:46.995816
+Weifang,China,CN,CHN,36.708,119.162,2636154.0,37.0,Low air quality,pm25,complete,2025-11-20T14:42:47.844821
+Huai’an,China,CN,CHN,33.551,119.113,2632788.0,35.0,Low air quality,pm25,complete,2025-11-20T14:42:48.674847
+Zibo,China,CN,CHN,36.8138,118.055,2631647.0,30.0,Low air quality,pm25,complete,2025-11-20T14:42:49.484722
+Attadappa,India,IN,IND,11.8689,75.3555,2615266.0,53.0,Moderate air quality,pm25,complete,2025-11-20T14:42:50.316759
+Munich,Germany,DE,DEU,48.1375,11.575,2606021.0,79.0,Good air quality,pm10,complete,2025-11-20T14:42:51.112790
+Gulou,China,CN,CHN,26.0865,119.298,2606000.0,69.0,Good air quality,pm10,complete,2025-11-20T14:42:51.919070
+Birmingham,United Kingdom,GB,GBR,52.48,-1.9025,2590363.0,79.0,Good air quality,no2,complete,2025-11-20T14:42:52.751039
+Valencia,Venezuela,VE,VEN,10.1833,-68.0,2585202.0,75.0,Good air quality,o3,complete,2025-11-20T14:42:53.599948
+Damascus,Syria,SY,SYR,33.502,36.2981,2584771.0,,,,missing_aqi,2025-11-20T14:42:54.412348
+Chattogram,Bangladesh,BD,BGD,22.335,91.8325,2581643.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:42:55.250438
+Brazzaville,Congo (Brazzaville),CG,COG,-4.2667,15.2667,2557100.0,,,,missing_aqi,2025-11-20T14:42:56.090003
+Yangjiang,China,CN,CHN,21.857,111.983,2555600.0,68.0,Good air quality,pm25,complete,2025-11-20T14:42:56.924328
+Sanaa,Yemen,YE,YEM,15.3483,44.2064,2545000.0,,,,missing_aqi,2025-11-20T14:42:57.768843
+Barmhān Kalān,India,IN,IND,19.1972,72.9722,2537000.0,35.0,Low air quality,pm10,complete,2025-11-20T14:42:58.582709
+Medellín,Colombia,CO,COL,6.2308,-75.5906,2529403.0,69.0,Good air quality,o3,complete,2025-11-20T14:42:59.460523
+Dingxi,China,CN,CHN,35.608,104.592,2524097.0,55.0,Moderate air quality,pm25,complete,2025-11-20T14:43:00.316527
+Shaoxing,China,CN,CHN,30.0511,120.5833,2521964.0,45.0,Moderate air quality,pm25,complete,2025-11-20T14:43:01.155132
+Yantai,China,CN,CHN,37.4646,121.4478,2511053.0,62.0,Good air quality,pm25,complete,2025-11-20T14:43:01.938325
+Huizhou,China,CN,CHN,23.112,114.416,2509243.0,68.0,Good air quality,o3,complete,2025-11-20T14:43:02.707258
+Xuanzhou,China,CN,CHN,30.939,118.759,2500063.0,57.0,Moderate air quality,pm10,complete,2025-11-20T14:43:03.538454
+Mirzāpur,India,IN,IND,25.146,82.569,2496970.0,21.0,Low air quality,pm10,complete,2025-11-20T14:43:04.369263
+Hamburg,Germany,DE,DEU,53.55,10.0,2496600.0,77.0,Good air quality,no2,complete,2025-11-20T14:43:05.197955
+Taipei,Taiwan,TW,TWN,25.0375,121.5625,2494813.0,66.0,Good air quality,pm10,complete,2025-11-20T14:43:05.983351
+Ankang,China,CN,CHN,32.6854,109.029,2493436.0,69.0,Good air quality,pm25,complete,2025-11-20T14:43:06.833144
+Zigong,China,CN,CHN,29.339,104.779,2489256.0,26.0,Low air quality,pm25,complete,2025-11-20T14:43:07.673517
+Sanming,China,CN,CHN,26.2634,117.6389,2486450.0,68.0,Good air quality,pm25,complete,2025-11-20T14:43:08.532730
+Toluca,Mexico,MX,MEX,19.2925,-99.6569,2476689.0,39.0,Low air quality,o3,complete,2025-11-20T14:43:09.358623
+Huangshi,China,CN,CHN,30.2011,115.039,2469079.0,46.0,Moderate air quality,pm10,complete,2025-11-20T14:43:10.192959
+Yaoundé,Cameroon,CM,CMR,3.8667,11.5167,2440462.0,,,,missing_aqi,2025-11-20T14:43:10.966503
+Zhuhai,China,CN,CHN,22.2742,113.5719,2439585.0,64.0,Good air quality,pm10,complete,2025-11-20T14:43:11.740036
+Huludao,China,CN,CHN,40.711,120.837,2434194.0,74.0,Good air quality,pm10,complete,2025-11-20T14:43:12.586931
+Baoshan,China,CN,CHN,25.112,99.161,2431211.0,82.0,Excellent air quality,pm25,complete,2025-11-20T14:43:13.435929
+Mecca,Saudi Arabia,SA,SAU,21.4225,39.8261,2427924.0,33.0,Low air quality,pm10,complete,2025-11-20T14:43:14.277372
+Vancouver,Canada,CA,CAN,49.25,-123.1,2426160.0,81.0,Excellent air quality,no2,complete,2025-11-20T14:43:15.162935
+Lianshan,China,CN,CHN,40.7523,120.828,2426000.0,52.0,Moderate air quality,pm10,complete,2025-11-20T14:43:16.170522
+Beirut,Lebanon,LB,LBN,33.8981,35.5058,2421354.0,,,,missing_aqi,2025-11-20T14:43:17.043612
+Salvador,Brazil,BR,BRA,-12.9831,-38.4928,2417678.0,66.0,Good air quality,o3,complete,2025-11-20T14:43:17.903247
+Bucharest,Romania,RO,ROU,44.4325,26.1039,2412530.0,55.0,Moderate air quality,pm25,complete,2025-11-20T14:43:18.752710
+Longba,China,CN,CHN,33.3702,104.9603,2407272.0,42.0,Moderate air quality,pm25,complete,2025-11-20T14:43:19.566229
+Nāgpur,India,IN,IND,21.1497,79.0806,2405665.0,15.0,Poor air quality,pm10,complete,2025-11-20T14:43:20.411503
+Queens,United States,US,USA,40.7498,-73.7976,2405464.0,81.0,Excellent air quality,pm10,complete,2025-11-20T14:43:21.197595
+Tieling,China,CN,CHN,42.2237,123.726,2388294.0,44.0,Moderate air quality,pm25,complete,2025-11-20T14:43:22.032846
+Yunfu,China,CN,CHN,22.9152,112.0445,2383350.0,56.0,Moderate air quality,pm10,complete,2025-11-20T14:43:23.051061
+Bekasi,Indonesia,ID,IDN,-6.2333,107.0,2381053.0,69.0,Good air quality,pm10,complete,2025-11-20T14:43:23.855283
+Daegu,"Korea, South",KR,KOR,35.8717,128.6017,2376044.0,70.0,Good air quality,o3,complete,2025-11-20T14:43:24.617082
+Ghāziābād,India,IN,IND,28.67,77.42,2375820.0,0.0,Poor air quality,pm10,complete,2025-11-20T14:43:25.417716
+Luoyang,China,CN,CHN,34.6197,112.4539,2372571.0,44.0,Moderate air quality,pm25,complete,2025-11-20T14:43:26.245734
+Luohe,China,CN,CHN,33.5804,114.0166,2367490.0,32.0,Low air quality,pm25,complete,2025-11-20T14:43:27.039496
+Algiers,Algeria,DZ,DZA,36.7325,3.0872,2364230.0,,,,missing_aqi,2025-11-20T14:43:27.851028
+Anshun,China,CN,CHN,26.2531,105.9476,2353100.0,64.0,Good air quality,pm25,complete,2025-11-20T14:43:28.730474
+Huainan,China,CN,CHN,32.6314,117.0194,2333896.0,44.0,Moderate air quality,pm25,complete,2025-11-20T14:43:29.601357
+Depok,Indonesia,ID,IDN,-6.394,106.8225,2330333.0,71.0,Good air quality,pm10,complete,2025-11-20T14:43:30.436174
+Konya,Turkey,TR,TUR,37.8667,32.4833,2320241.0,50.0,Moderate air quality,pm25,complete,2025-11-20T14:43:31.273633
+Haiphong,Vietnam,VN,VNM,20.8651,106.6838,2310280.0,72.0,Good air quality,pm25,complete,2025-11-20T14:43:32.127972
+Yanjiang,China,CN,CHN,30.129,104.627,2308631.0,38.0,Low air quality,pm25,complete,2025-11-20T14:43:32.992439
+Guangyuan,China,CN,CHN,32.436,105.844,2305657.0,56.0,Moderate air quality,pm25,complete,2025-11-20T14:43:33.873218
+Baku,Azerbaijan,AZ,AZE,40.3667,49.8352,2300500.0,69.0,Good air quality,o3,complete,2025-11-20T14:43:34.695579
+Yingkou,China,CN,CHN,40.625,122.219,2296540.0,71.0,Good air quality,pm10,complete,2025-11-20T14:43:35.510642
+Mudanjiang,China,CN,CHN,44.5514,129.6329,2290208.0,43.0,Moderate air quality,pm10,complete,2025-11-20T14:43:36.355853
+Riverside,United States,US,USA,33.9381,-117.3949,2288508.0,76.0,Good air quality,pm10,complete,2025-11-20T14:43:37.137403
+Fukuoka,Japan,JP,JPN,33.59,130.4017,2286000.0,75.0,Good air quality,pm25,complete,2025-11-20T14:43:37.937607
+Nantong,China,CN,CHN,31.981,120.894,2261382.0,34.0,Low air quality,pm25,complete,2025-11-20T14:43:38.760505
+Lincang,China,CN,CHN,23.884,100.089,2257991.0,53.0,Moderate air quality,pm25,complete,2025-11-20T14:43:39.590021
+Las Vegas,United States,US,USA,36.2333,-115.2654,2256509.0,77.0,Good air quality,o3,complete,2025-11-20T14:43:40.414298
+Haikou,China,CN,CHN,20.0186,110.3488,2250000.0,58.0,Moderate air quality,pm10,complete,2025-11-20T14:43:41.259959
+Yuxi,China,CN,CHN,24.347,102.527,2249502.0,54.0,Moderate air quality,pm25,complete,2025-11-20T14:43:42.159319
+Tangerang,Indonesia,ID,IDN,-6.1703,106.6403,2237006.0,65.0,Good air quality,pm10,complete,2025-11-20T14:43:42.997254
+Supaul,India,IN,IND,26.126,86.605,2229076.0,34.0,Low air quality,pm10,complete,2025-11-20T14:43:43.848551
+Almaty,Kazakhstan,KZ,KAZ,43.24,76.915,2228675.0,,,,missing_aqi,2025-11-20T14:43:44.673970
+Vienna,Austria,AT,AUT,48.2083,16.3725,2223236.0,81.0,Excellent air quality,pm10,complete,2025-11-20T14:43:45.477764
+Eşfahān,Iran,IR,IRN,32.6653,51.6703,2219343.0,,,,missing_aqi,2025-11-20T14:43:46.257432
+Xining,China,CN,CHN,36.6224,101.7804,2208708.0,35.0,Low air quality,pm25,complete,2025-11-20T14:43:47.100599
+Jincheng,China,CN,CHN,35.491,112.852,2194545.0,56.0,Moderate air quality,pm10,complete,2025-11-20T14:43:47.927507
+Baltimore,United States,US,USA,39.3051,-76.6144,2189589.0,58.0,Moderate air quality,pm25,complete,2025-11-20T14:43:48.746266
+Dandong,China,CN,CHN,40.1167,124.3833,2188436.0,56.0,Moderate air quality,pm25,complete,2025-11-20T14:43:49.561366
+Yan’an,China,CN,CHN,36.65,109.494,2187009.0,56.0,Moderate air quality,pm10,complete,2025-11-20T14:43:50.432877
+Qinbaling,China,CN,CHN,35.7091,107.6436,2179716.0,56.0,Moderate air quality,pm10,complete,2025-11-20T14:43:51.260238
+Gaoping,China,CN,CHN,30.7824,106.1281,2174000.0,37.0,Low air quality,pm25,complete,2025-11-20T14:43:52.127609
+Awka,Nigeria,NG,NGA,6.2069,7.0678,2171900.0,,,,missing_aqi,2025-11-20T14:43:52.957340
+Ma’anshan,China,CN,CHN,31.669,118.507,2159930.0,30.0,Low air quality,pm25,complete,2025-11-20T14:43:54.575359
+Jiamusi,China,CN,CHN,46.8,130.319,2156505.0,82.0,Excellent air quality,o3,complete,2025-11-20T14:43:55.414607
+Perth,Australia,AU,AUS,-31.9558,115.8597,2141834.0,83.0,Excellent air quality,o3,complete,2025-11-20T14:43:56.269149
+Gaziantep,Turkey,TR,TUR,37.0628,37.3792,2130432.0,39.0,Low air quality,pm25,complete,2025-11-20T14:43:57.127986
+Phnom Penh,Cambodia,KH,KHM,11.5696,104.921,2129371.0,,,,missing_aqi,2025-11-20T14:43:57.958006
+St. Louis,United States,US,USA,38.6359,-90.2451,2127843.0,69.0,Good air quality,pm10,complete,2025-11-20T14:43:58.779849
+Mogadishu,Somalia,SO,SOM,2.0392,45.3419,2120000.0,,,,missing_aqi,2025-11-20T14:43:59.600506
+Lishui,China,CN,CHN,28.468,119.923,2116957.0,59.0,Moderate air quality,pm25,complete,2025-11-20T14:44:00.424118
+Kowloon,Hong Kong,HK,HKG,22.3167,114.1833,2108419.0,71.0,Good air quality,o3,complete,2025-11-20T14:44:01.208102
+Córdoba,Argentina,AR,ARG,-31.4167,-64.1833,2106734.0,66.0,Good air quality,o3,complete,2025-11-20T14:44:02.057443
+Zamboanga City,Philippines,PH,PHL,6.9042,122.0761,2100000.0,82.0,Excellent air quality,o3,complete,2025-11-20T14:44:02.883489
+Rawalpindi,Pakistan,PK,PAK,33.6,73.0333,2098231.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:44:03.708380
+Havana,Cuba,CU,CUB,23.1367,-82.3589,2089532.0,,,,missing_aqi,2025-11-20T14:44:04.512944
+Chongzuo,China,CN,CHN,22.377,107.365,2088692.0,73.0,Good air quality,pm10,complete,2025-11-20T14:44:05.377138
+Portland,United States,US,USA,45.5371,-122.65,2084045.0,88.0,Excellent air quality,no2,complete,2025-11-20T14:44:06.246387
+Laibin,China,CN,CHN,23.7501,109.2212,2074611.0,79.0,Good air quality,pm25,complete,2025-11-20T14:44:07.072645
+San Antonio,United States,US,USA,29.4632,-98.5238,2069843.0,63.0,Good air quality,pm10,complete,2025-11-20T14:44:07.863590
+Vadodara,India,IN,IND,22.3,73.2,2065771.0,18.0,Poor air quality,pm10,complete,2025-11-20T14:44:08.722633
+Qingyang,China,CN,CHN,24.7816,118.5517,2061600.0,73.0,Good air quality,o3,complete,2025-11-20T14:44:09.544664
+Rājkot,India,IN,IND,22.3,70.7833,2043000.0,23.0,Low air quality,pm25,complete,2025-11-20T14:44:10.372057
+Shangzhou,China,CN,CHN,33.8734,109.9186,2041231.0,57.0,Moderate air quality,pm10,complete,2025-11-20T14:44:11.203827
+Vishākhapatnam,India,IN,IND,17.7042,83.2978,2035922.0,60.0,Good air quality,o3,complete,2025-11-20T14:44:12.046849
+Shengli,China,CN,CHN,37.434,118.6746,2035338.0,57.0,Moderate air quality,pm10,complete,2025-11-20T14:44:12.885393
+Sanmenxia,China,CN,CHN,34.7732,111.2004,2034872.0,41.0,Moderate air quality,pm25,complete,2025-11-20T14:44:13.727488
+Warsaw,Poland,PL,POL,52.23,21.0111,2028000.0,55.0,Moderate air quality,pm25,complete,2025-11-20T14:44:14.553734
+Gujranwala,Pakistan,PK,PAK,32.1567,74.19,2027001.0,17.0,Poor air quality,pm25,complete,2025-11-20T14:44:15.447900
+Hezhou,China,CN,CHN,24.4042,111.5672,2007858.0,64.0,Good air quality,pm25,complete,2025-11-20T14:44:16.304070
+Aleppo,Syria,SY,SYR,36.2319,37.1681,2003671.0,,,,missing_aqi,2025-11-20T14:44:17.105078
+Tijuana,Mexico,MX,MEX,32.525,-117.0333,2002000.0,61.0,Good air quality,pm25,complete,2025-11-20T14:44:17.940712
+Puning,China,CN,CHN,23.298,116.166,1998619.0,48.0,Moderate air quality,pm25,complete,2025-11-20T14:44:18.759386
+Indore,India,IN,IND,22.7167,75.8472,1994397.0,34.0,Low air quality,pm10,complete,2025-11-20T14:44:19.563711
+Minsk,Belarus,BY,BLR,53.9006,27.5586,1992862.0,78.0,Good air quality,pm25,complete,2025-11-20T14:44:20.414316
+Karaj,Iran,IR,IRN,35.8292,50.9675,1973470.0,,,,missing_aqi,2025-11-20T14:44:21.218702
+Kananga,Congo (Kinshasa),CD,COD,-5.897,22.4488,1971704.0,,,,missing_aqi,2025-11-20T14:44:22.070646
+Huaibei,China,CN,CHN,33.956,116.798,1970265.0,19.0,Poor air quality,pm25,complete,2025-11-20T14:44:22.892960
+Peshawar,Pakistan,PK,PAK,34.0144,71.5675,1970042.0,30.0,Low air quality,pm25,complete,2025-11-20T14:44:23.745773
+Sacramento,United States,US,USA,38.5677,-121.4685,1962998.0,81.0,Excellent air quality,o3,complete,2025-11-20T14:44:24.580471
+Sapporo,Japan,JP,JPN,43.0619,141.3544,1959313.0,80.0,Excellent air quality,o3,complete,2025-11-20T14:44:25.405767
+Tilburg,Netherlands,NL,NLD,51.5572,5.0911,1944588.0,71.0,Good air quality,pm25,complete,2025-11-20T14:44:26.277909
+Austin,United States,US,USA,30.3005,-97.7522,1915031.0,76.0,Good air quality,pm10,complete,2025-11-20T14:44:27.135611
+Orlando,United States,US,USA,28.4773,-81.337,1913597.0,58.0,Moderate air quality,o3,complete,2025-11-20T14:44:27.965296
+Davao,Philippines,PH,PHL,7.07,125.6,1910167.0,83.0,Excellent air quality,pm25,complete,2025-11-20T14:44:28.790991
+Songjiang,China,CN,CHN,31.0058,121.2333,1909713.0,36.0,Low air quality,pm25,complete,2025-11-20T14:44:29.633161
+Yinchuan,China,CN,CHN,38.485,106.225,1901793.0,33.0,Low air quality,pm10,complete,2025-11-20T14:44:30.501653
+Abhepur,India,IN,IND,39.41,116.38,1895686.0,38.0,Low air quality,pm25,complete,2025-11-20T14:44:31.385364
+Thāne,India,IN,IND,19.1972,72.9722,1886941.0,35.0,Low air quality,pm10,complete,2025-11-20T14:44:32.189605
+Multan,Pakistan,PK,PAK,30.1978,71.4697,1871843.0,15.0,Poor air quality,pm25,complete,2025-11-20T14:44:33.034640
+Port Harcourt,Nigeria,NG,NGA,4.8242,7.0336,1865000.0,,,,missing_aqi,2025-11-20T14:44:33.846415
+Fushun,China,CN,CHN,41.881,123.957,1861372.0,36.0,Low air quality,pm25,complete,2025-11-20T14:44:34.671682
+Tainan,Taiwan,TW,TWN,22.9833,120.1833,1856642.0,58.0,Moderate air quality,pm25,complete,2025-11-20T14:44:35.474570
+Pingliang,China,CN,CHN,35.5424,106.6649,1848607.0,58.0,Moderate air quality,pm10,complete,2025-11-20T14:44:36.291939
+Siping,China,CN,CHN,43.1668,124.3506,1814733.0,46.0,Moderate air quality,pm10,complete,2025-11-20T14:44:37.111792
+San Juan,Puerto Rico,PR,PRI,18.3985,-66.061,1809800.0,79.0,Good air quality,o3,complete,2025-11-20T14:44:37.978102
+Pingxiang,China,CN,CHN,27.659,113.887,1804805.0,56.0,Moderate air quality,pm25,complete,2025-11-20T14:44:38.799439
+Bhopāl,India,IN,IND,23.2599,77.4126,1798218.0,15.0,Poor air quality,pm10,complete,2025-11-20T14:44:39.624481
+Mosul,Iraq,IQ,IRQ,36.3667,43.1167,1792000.0,,,,missing_aqi,2025-11-20T14:44:40.446623
+Diyarbakır,Turkey,TR,TUR,37.91,40.24,1791373.0,53.0,Moderate air quality,pm25,complete,2025-11-20T14:44:41.272935
+Lubumbashi,Congo (Kinshasa),CD,COD,-11.6647,27.4794,1786397.0,,,,missing_aqi,2025-11-20T14:44:42.097958
+Benin City,Nigeria,NG,NGA,6.3333,5.6222,1780000.0,,,,missing_aqi,2025-11-20T14:44:42.907175
+Curitiba,Brazil,BR,BRA,-25.4297,-49.2719,1773718.0,58.0,Moderate air quality,pm10,complete,2025-11-20T14:44:43.745296
+San Jose,United States,US,USA,37.3012,-121.848,1771563.0,79.0,Good air quality,o3,complete,2025-11-20T14:44:44.606639
+Shuyangzha,China,CN,CHN,34.1299,118.7734,1770000.0,27.0,Low air quality,pm25,complete,2025-11-20T14:44:45.488467
+Adana,Turkey,TR,TUR,37.0,35.3213,1765981.0,54.0,Moderate air quality,pm10,complete,2025-11-20T14:44:46.324318
+Quito,Ecuador,EC,ECU,-0.22,-78.5125,1763275.0,68.0,Good air quality,o3,complete,2025-11-20T14:44:47.159117
+Āgra,India,IN,IND,27.18,78.02,1760285.0,18.0,Poor air quality,pm10,complete,2025-11-20T14:44:47.945286
+Peyanvilai,India,IN,IND,8.9,77.9833,1750176.0,40.0,Moderate air quality,pm25,complete,2025-11-20T14:44:48.758770
+Lusaka,Zambia,ZM,ZMB,-15.4167,28.2833,1747152.0,,,,missing_aqi,2025-11-20T14:44:49.562914
+Indianapolis,United States,US,USA,39.7771,-86.1458,1740984.0,82.0,Excellent air quality,pm25,complete,2025-11-20T14:44:50.372280
+Hyderabad City,Pakistan,PK,PAK,25.3792,68.3683,1732693.0,31.0,Low air quality,pm25,complete,2025-11-20T14:44:51.236550
+Pimpri-Chinchwad,India,IN,IND,18.6186,73.8037,1729320.0,98.0,Excellent air quality,pm10,complete,2025-11-20T14:44:52.009843
+Maracay,Venezuela,VE,VEN,10.2469,-67.5961,1723236.0,76.0,Good air quality,o3,complete,2025-11-20T14:44:52.991884
+Masqaţ,Oman,OM,OMN,23.614,58.5911,1720000.0,,,,missing_aqi,2025-11-20T14:44:53.797730
+Montevideo,Uruguay,UY,URY,-34.9056,-56.1842,1719453.0,,,,missing_aqi,2025-11-20T14:44:54.598007
+Pittsburgh,United States,US,USA,40.4397,-79.9763,1712828.0,56.0,Moderate air quality,pm25,complete,2025-11-20T14:44:55.356200
+Cincinnati,United States,US,USA,39.1413,-84.506,1704916.0,74.0,Good air quality,pm25,complete,2025-11-20T14:44:56.191490
+Manhattan,United States,US,USA,40.7834,-73.9662,1694263.0,79.0,Good air quality,pm10,complete,2025-11-20T14:44:56.971015
+Kansas City,United States,US,USA,39.1238,-94.5541,1686807.0,55.0,Moderate air quality,pm25,complete,2025-11-20T14:44:57.836659
+Budapest,Hungary,HU,HUN,47.4983,19.0408,1686222.0,58.0,Moderate air quality,pm10,complete,2025-11-20T14:44:58.672224
+Patna,India,IN,IND,25.594,85.1376,1684222.0,33.0,Low air quality,pm10,complete,2025-11-20T14:44:59.516954
+Kampala,Uganda,UG,UGA,0.3136,32.5811,1680600.0,51.0,Moderate air quality,pm25,complete,2025-11-20T14:45:00.404214
+Beihai,China,CN,CHN,21.481,109.12,1680000.0,60.0,Good air quality,pm25,complete,2025-11-20T14:45:01.264212
+Sanzhou,China,CN,CHN,30.82,108.4,1680000.0,38.0,Low air quality,pm25,complete,2025-11-20T14:45:02.092347
+Cleveland,United States,US,USA,41.4764,-81.6805,1679247.0,56.0,Moderate air quality,pm10,complete,2025-11-20T14:45:02.968656
+Conakry,Guinea,GN,GIN,9.5092,-13.7122,1667864.0,,,,missing_aqi,2025-11-20T14:45:03.785709
+Ximeicun,China,CN,CHN,24.9612,118.3849,1663542.0,73.0,Good air quality,o3,complete,2025-11-20T14:45:04.641129
+Caloocan City,Philippines,PH,PHL,14.65,120.97,1661584.0,85.0,Excellent air quality,pm25,complete,2025-11-20T14:45:05.481809
+Ecatepec,Mexico,MX,MEX,19.6097,-99.06,1655015.0,46.0,Moderate air quality,pm25,complete,2025-11-20T14:45:06.321765
+Yushan,China,CN,CHN,31.322,120.985,1652159.0,36.0,Low air quality,pm25,complete,2025-11-20T14:45:07.147038
+Fuxin,China,CN,CHN,42.022,121.67,1647280.0,35.0,Low air quality,pm25,complete,2025-11-20T14:45:07.937880
+Novosibirsk,Russia,RU,RUS,55.05,82.95,1633851.0,,,,missing_aqi,2025-11-20T14:45:08.813168
+Bilāspur,India,IN,IND,22.09,82.15,1625502.0,31.0,Low air quality,pm10,complete,2025-11-20T14:45:09.632327
+Semarang,Indonesia,ID,IDN,-6.99,110.4225,1621384.0,50.0,Moderate air quality,pm25,complete,2025-11-20T14:45:10.495316
+Jingdezhen,China,CN,CHN,29.2917,117.1986,1618979.0,46.0,Moderate air quality,pm25,complete,2025-11-20T14:45:11.317326
+Ludhiāna,India,IN,IND,30.91,75.85,1618879.0,34.0,Low air quality,pm10,complete,2025-11-20T14:45:12.146414
+Liaoyang,China,CN,CHN,41.279,123.176,1604580.0,68.0,Good air quality,pm10,complete,2025-11-20T14:45:12.963637
+Jiangyin,China,CN,CHN,31.839,120.295,1595138.0,39.0,Low air quality,pm25,complete,2025-11-20T14:45:13.805020
+Valencia,Spain,ES,ESP,39.47,-0.3764,1595000.0,81.0,Excellent air quality,o3,complete,2025-11-20T14:45:14.626124
+Shuozhou,China,CN,CHN,39.3317,112.4329,1593444.0,38.0,Low air quality,pm10,complete,2025-11-20T14:45:15.567528
+León de los Aldama,Mexico,MX,MEX,21.1167,-101.6833,1579803.0,36.0,Low air quality,o3,complete,2025-11-20T14:45:16.501152
+Columbus,United States,US,USA,39.9862,-82.9855,1578153.0,70.0,Good air quality,pm10,complete,2025-11-20T14:45:17.353445
+Puebla,Mexico,MX,MEX,19.0333,-98.1833,1576259.0,47.0,Moderate air quality,pm25,complete,2025-11-20T14:45:18.226444
+Biên Hòa,Vietnam,VN,VNM,10.95,106.8167,1575000.0,83.0,Excellent air quality,pm25,complete,2025-11-20T14:45:19.087382
+Chengtangcun,China,CN,CHN,35.0833,117.15,1574648.0,21.0,Low air quality,pm25,complete,2025-11-20T14:45:19.917787
+Yopougon,Côte d’Ivoire,CI,CIV,5.3748,-4.0867,1571065.0,,,,missing_aqi,2025-11-20T14:45:20.794677
+Hebi,China,CN,CHN,35.748,114.297,1565973.0,50.0,Moderate air quality,pm25,complete,2025-11-20T14:45:21.639379
+Shīrāz,Iran,IR,IRN,29.61,52.5425,1565572.0,,,,missing_aqi,2025-11-20T14:45:22.475816
+Dushanbe,Tajikistan,TJ,TJK,38.5367,68.78,1564700.0,,,,missing_aqi,2025-11-20T14:45:23.275703
+Madurai,India,IN,IND,9.9252,78.1198,1561129.0,36.0,Low air quality,pm25,complete,2025-11-20T14:45:24.174815
+Huzhou,China,CN,CHN,30.8925,120.0875,1558826.0,36.0,Low air quality,pm25,complete,2025-11-20T14:45:24.999011
+Harare,Zimbabwe,ZW,ZWE,-17.8292,31.0522,1558823.0,,,,missing_aqi,2025-11-20T14:45:25.810441
+Tabrīz,Iran,IR,IRN,38.0817,46.2992,1558693.0,,,,missing_aqi,2025-11-20T14:45:26.624826
+Jamshedpur,India,IN,IND,22.7925,86.1842,1558000.0,26.0,Low air quality,pm25,complete,2025-11-20T14:45:27.428822
+San José,Costa Rica,CR,CRI,9.9325,-84.08,1543000.0,80.0,Excellent air quality,o3,complete,2025-11-20T14:45:29.085320
