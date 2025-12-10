@@ -11,7 +11,7 @@ This project includes descriptive metadata such as dataset title, creators, publ
 
 ## IMPORTANT: Grader Instructions
 
-**Grader should view SNAKEMAKE_README for instructions on reproduction.**
+**Grader should view SNAKEMAKE_README.md for instructions on reproduction.**
 
 ---
 
@@ -144,22 +144,22 @@ Regional averages also show a few outliers, where moderately populated cities ap
 ### **regional_comparison**
 
 | Country       | Mean AQI | Median AQI | Std AQI | City Count |
-|--------------|----------:|------------:|--------:|-----------:|
-| Australia     | 83.25     | 84.0        | 3.10     | 4          |
-| Germany       | 81.25     | 82.0        | 6.65     | 4          |
-| Philippines   | 79.80     | 80.0        | 2.28     | 5          |
-| Canada        | 78.00     | 81.0        | 8.89     | 3          |
-| Spain         | 77.67     | 78.0        | 4.51     | 3          |
-| South Africa  | 75.33     | 75.0        | 2.52     | 3          |
-| United States | 72.54     | 73.0        | 6.93     | 37         |
-| Japan         | 72.00     | 72.5        | 5.66     | 6          |
-| Venezuela     | 70.75     | 76.0        | 13.40    | 4          |
-| Brazil        | 69.33     | 70.0        | 6.38     | 6          |
-| Colombia      | 66.00     | 68.0        | 8.19     | 3          |
-| Indonesia     | 57.25     | 55.0        | 5.65     | 8          |
-| Taiwan        | 56.00     | 55.0        | 13.39    | 6          |
-| Mexico        | 55.38     | 53.5        | 12.33    | 4          |
-| Turkey        | 50.25     | 52.0        | 15.06    | 8          |
+|--------------|---------:|-----------:|--------:|-----------:|
+| Australia     | 83.25    | 84.0       | 3.10    | 4          |
+| Germany       | 81.25    | 82.0       | 6.65    | 4          |
+| Philippines   | 79.80    | 80.0       | 2.28    | 5          |
+| Canada        | 78.00    | 81.0       | 8.89    | 3          |
+| Spain         | 77.67    | 78.0       | 4.51    | 3          |
+| South Africa  | 75.33    | 75.0       | 2.52    | 3          |
+| United States | 72.54    | 73.0       | 6.93    | 37         |
+| Japan         | 72.00    | 72.5       | 5.66    | 6          |
+| Venezuela     | 70.75    | 76.0       | 13.40   | 4          |
+| Brazil        | 69.33    | 70.0       | 6.38    | 6          |
+| Colombia      | 66.00    | 68.0       | 8.19    | 3          |
+| Indonesia     | 57.25    | 55.0       | 5.65    | 8          |
+| Taiwan        | 56.00    | 50.0       | 13.39   | 4          |
+| Mexico        | 55.38    | 53.5       | 12.33   | 8          |
+| Turkey        | 50.25    | 52.0       | 15.06   | 8          |
 
 ### **Dominant Pollutants and Outliers**
 Across the dataset, **PM2.5** and **PM10** are the most common dominant pollutants in cities with poor air quality. These fine particles are linked to **traffic, industry, and burning fuels**, which explains why they appear so often in polluted areas. What stands out is that some of the worst AQI values do **not** come from the biggest cities.
@@ -487,12 +487,7 @@ From the project folder, run:
 ```bash
 pip install pandas numpy requests matplotlib seaborn
 ```
-### Install required Python libraries
 
-From the project folder, run:
-```bash
-pip install pandas numpy requests matplotlib seaborn
-```
 ### (Optional) Get a Google Air Quality API key
 
 You only need this if you plan to **re-collect air quality data**.
