@@ -1,0 +1,13 @@
+# Configuration file for Snakemake workflow
+# Air Quality & Population Data Curation Project
+
+# Data directories
+data_dir: "data"
+viz_dir: "data/viz"
+logs_dir: "logs"
+
+# Input data
+input_cities: "data/worldcities.csv"
+
+# API configuration (loaded from config.py)
+# Make sure config.py exists with your API_KEY before running
