@@ -7,6 +7,14 @@
 **Metadata Notice:**  
 This project includes descriptive metadata such as dataset title, creators, publishers, usage limitations, provenance, and data dictionary in the style of the DCAT standard.
 
+---
+
+## IMPORTANT: Grader Instructions
+
+**IMPORTANT: Grader should view SNAKEFILE_README for instructions on reproduction.**
+
+---
+
 ## SUMMARY
 
 ### **Research Question & Motivation**
