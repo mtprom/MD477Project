@@ -11,7 +11,7 @@ This project includes descriptive metadata such as dataset title, creators, publ
 
 ## IMPORTANT: Grader Instructions
 
-**IMPORTANT: Grader should view SNAKEFILE_README for instructions on reproduction.**
+**Grader should view SNAKEFILE_README for instructions on reproduction.**
 
 ---
 
