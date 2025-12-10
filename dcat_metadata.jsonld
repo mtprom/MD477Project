@@ -1,0 +1,200 @@
+{
+  "@context": "https://www.w3.org/ns/dcat",
+  "@type": "Dataset",
+  "identifier": "population-air-quality-500-cities-2024",
+  "title": "Population vs. Air Quality in 500 Global Cities",
+  "description": "This dataset combines population data from SimpleMaps with real-time Air Quality Index (AQI) measurements from Google Maps Air Quality API for the 500 most populated cities worldwide. The project investigates whether larger cities consistently have worse air quality, or if other factors such as geography, climate, and government policies play a more significant role.",
+  
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Maclain Prom",
+      "role": "Data collection and API integration specialist"
+    },
+    {
+      "@type": "Person",
+      "name": "Diego Marquez",
+      "role": "Data cleaning, integration, and visualization specialist"
+    }
+  ],
+  
+  "issued": "2025",
+  "modified": "2025",
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "University of Illinois"
+  },
+  
+  "contactPoint": {
+    "@type": "Organization",
+    "name": "MD",
+    "email": "mprom2@illinois.edu"
+  },
+  
+  "keyword": [
+    "air quality",
+    "population",
+    "cities",
+    "AQI",
+    "pollution",
+    "urban environment",
+    "PM2.5",
+    "PM10",
+    "environmental health",
+    "global cities"
+  ],
+  
+  "theme": [
+    "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+    "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+    "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+  ],
+  
+  "spatial": {
+    "@type": "Location",
+    "description": "Global coverage of 500 most populated cities"
+  },
+  
+  "temporal": {
+    "@type": "PeriodOfTime",
+    "description": "Real-time data collection performed in 2025. Population data reflects a single snapshot; AQI values represent real-time measurements at the moment of collection."
+  },
+  
+  "license": "https://opensource.org/licenses/MIT",
+  
+  "rights": "This dataset is for academic and research purposes only. The SimpleMaps source data has usage restrictions preventing full redistribution. Google Maps Air Quality API terms prohibit mass redistribution of raw responses. Only derived, cleaned CSV files are shared.",
+  
+  "distribution": [
+    {
+      "@type": "Distribution",
+      "title": "Integrated Cities Air Quality Dataset (CSV)",
+      "description": "Final cleaned and integrated dataset combining population and air quality data",
+      "format": "text/csv",
+      "accessURL": "https://uofi.box.com/s/3ack9guo8cf8tor8avg8orh13m9g59zm",
+      "downloadURL": "https://uofi.box.com/s/3ack9guo8cf8tor8avg8orh13m9g59zm",
+      "byteSize": null,
+      "mediaType": "text/csv"
+    },
+    {
+      "@type": "Distribution",
+      "title": "Correlation Matrix (CSV)",
+      "description": "Computed correlation between population and AQI",
+      "format": "text/csv",
+      "accessURL": "https://uofi.box.com/s/3ack9guo8cf8tor8avg8orh13m9g59zm",
+      "mediaType": "text/csv"
+    },
+    {
+      "@type": "Distribution",
+      "title": "Regional Comparison (CSV)",
+      "description": "Summary statistics grouped by geographic region",
+      "format": "text/csv",
+      "accessURL": "https://uofi.box.com/s/3ack9guo8cf8tor8avg8orh13m9g59zm",
+      "mediaType": "text/csv"
+    },
+    {
+      "@type": "Distribution",
+      "title": "Visualizations",
+      "description": "PNG plots including population vs AQI scatter, geographic distribution map, and AQI category boxplots",
+      "format": "image/png",
+      "accessURL": "https://uofi.box.com/s/3ack9guo8cf8tor8avg8orh13m9g59zm",
+      "mediaType": "image/png"
+    }
+  ],
+  
+  "dataQuality": "The dataset includes 496 valid cities with approximately 89% AQI coverage. 54 cities (10.8%) have missing AQI values due to API limitations or lack of monitoring infrastructure. All missing data is flagged with data_quality_flag field. Population data is complete and validated. Coordinates verified within valid global ranges. 16 duplicate records were removed during cleaning.",
+  
+  "accrualPeriodicity": "http://purl.org/cld/freq/irregular",
+  
+  "provenance": {
+    "@type": "ProvenanceStatement",
+    "description": "Data collected through automated Python pipeline using Snakemake workflow. SimpleMaps World Cities dataset filtered to top 500 cities by population. Google Air Quality API queried for each city coordinate with retry logic and exponential backoff. All transformations logged with timestamps in curation_log. Failed API requests documented in collection_errors log. No manual data editing performed."
+  },
+  
+  "wasGeneratedBy": {
+    "@type": "Activity",
+    "name": "Automated data collection and processing pipeline",
+    "description": "Multi-stage workflow: (1) Load and clean SimpleMaps population data, (2) Select top 500 cities by population, (3) Query Google Air Quality API with rate limiting and retry logic, (4) Merge datasets on city+country composite key, (5) Validate data types and coordinate ranges, (6) Generate analysis and visualizations",
+    "used": [
+      {
+        "@type": "Dataset",
+        "name": "SimpleMaps World Cities Dataset",
+        "url": "https://simplemaps.com/data/world-cities",
+        "description": "Population and geographic coordinate data for 48,000+ global cities"
+      },
+      {
+        "@type": "WebAPI",
+        "name": "Google Maps Air Quality API",
+        "url": "https://developers.google.com/maps/documentation/air-quality",
+        "description": "Real-time AQI, pollutant information, and health category labels"
+      }
+    ],
+    "startedAtTime": "2025",
+    "endedAtTime": "2025"
+  },
+  
+  "qualifiedRelation": [
+    {
+      "@type": "Relationship",
+      "relation": "wasDerivedFrom",
+      "entity": {
+        "@type": "Dataset",
+        "name": "SimpleMaps World Cities Dataset",
+        "publisher": "SimpleMaps",
+        "license": "Proprietary - derived subset only, full redistribution not permitted"
+      }
+    },
+    {
+      "@type": "Relationship",
+      "relation": "wasDerivedFrom",
+      "entity": {
+        "@type": "WebAPI",
+        "name": "Google Maps Air Quality API",
+        "publisher": "Google LLC",
+        "license": "API Terms of Service - mass redistribution prohibited"
+      }
+    }
+  ],
+  
+  "conformsTo": [
+    "https://www.w3.org/TR/vocab-dcat-2/",
+    "https://www.w3.org/TR/vocab-dcat-3/"
+  ],
+  
+  "landingPage": "https://github.com/mtprom/MD477Project",
+  
+  "documentation": [
+    {
+      "@type": "Document",
+      "title": "Data Dictionary",
+      "description": "Detailed schema documentation for integrated_cities_air_quality_final.csv",
+      "url": "data_dictionary.md"
+    },
+    {
+      "@type": "Document",
+      "title": "README",
+      "description": "Project overview, methods, findings, and reproduction instructions",
+      "url": "README.md"
+    },
+    {
+      "@type": "Document",
+      "title": "Snakemake Workflow Documentation",
+      "description": "Instructions for running automated pipeline",
+      "url": "SNAKEMAKE_README.md"
+    }
+  ],
+  
+  "isReferencedBy": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Research Report: Population vs. Air Quality Analysis",
+      "description": "Full research findings showing weak correlation (-0.075) between population and AQI, with geographic and policy factors playing larger roles"
+    }
+  ],
+  
+  "sample": {
+    "@type": "Distribution",
+    "description": "Sample showing dataset structure with fields: city, country, iso2, iso3, latitude, longitude, population, aqi, aqi_category, dominant_pollutant, data_quality_flag, collection_timestamp",
+    "format": "text/csv"
+  }
+}
